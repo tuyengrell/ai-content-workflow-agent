@@ -2,7 +2,7 @@
 
 A local, offline demonstration of structured AI content generation, human review, scheduling, and reliable workflow automation. It illustrates AI engineering, LLM adapter design, backend validation, web development, and rapid prototyping.
 
-This standalone portfolio project is inspired by real-world content automation requirements. It uses generic implementation logic, synthetic data and mock integrations, without exposing private product informationPlaceholder or production infrastructure. It contains no production data, credentials, proprietary prompts, internal product plans, or live publishing configuration.
+This standalone portfolio project is inspired by real-world content automation requirements. It uses generic implementation logic, synthetic data and mock integrations, without exposing private product information or production infrastructure. It contains no production data, credentials, proprietary prompts, internal product plans, or live publishing configuration.
 
 ## Problem and goal
 
