@@ -1,0 +1,14 @@
+{
+  "name": "ai-content-workflow-agent",
+  "version": "1.0.0",
+  "private": true,
+  "files": ["public/", "src/", "scripts/", "test/", ".env.example", "README.md", "SANITIZATION.md", "LOCAL-QA.md"],
+  "description": "A synthetic, offline portfolio workflow demonstration",
+  "type": "module",
+  "engines": { "node": ">=22" },
+  "scripts": {
+    "start": "node --env-file-if-exists=.env src/server.js",
+    "test": "node --test",
+    "check": "node scripts/check.js"
+  }
+}
